@@ -1,7 +1,7 @@
-##Experiment REPO
+## Experiment REPO
 
 ```
-###Things i liked in this content
+### Things i liked in this content
 
 - Understanding of github thoroughly 
 - Resources you provided
@@ -9,7 +9,7 @@
 ```
 
 ```
-###Things i like to see in future
+### Things i like to see in future
 
 - Working with cloud with docker and kubernetes
 - Creating Full stack web application using React and Flask
